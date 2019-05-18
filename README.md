@@ -1,6 +1,5 @@
 # Eskwelabs-Week1-Hackathon
-
-<h4>Prompt 1:
+Prompt 1:
 
 First, use and merge the data sets available to you. 
 
