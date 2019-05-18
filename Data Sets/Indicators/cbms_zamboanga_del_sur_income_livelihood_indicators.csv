@@ -1,0 +1,485 @@
+city_or_municipality,barangay,household,households_magnitude,households_proportion,households_total,population_male_magnitude,population_female_magnitude,population_total_magnitude,population_male_proportion,population_female_proportion
+Aurora,Acad,households with income below poverty threshold,175,96.7,947,504,443,97.5,98.1,96.9
+Aurora,Acad,households with income below food threshold,169,93.4,931,494,437,95.9,96.1,95.6
+Aurora,Acad,households experienced food shortage,17,9.4,71,38,33,7.3,7.4,7.2
+Aurora,Acad,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Alang-alang,households with income below poverty threshold,58,59.8,291,157,134,68.8,69.8,67.7
+Aurora,Alang-alang,households with income below food threshold,45,46.4,237,129,108,56,57.3,54.5
+Aurora,Alang-alang,households experienced food shortage,5,5.2,25,16,9,5.9,7.1,4.5
+Aurora,Alang-alang,unemployed members of the labor force,1,1.1,1,1,0,0.8,1.1,0
+Aurora,Alegria,households with income below poverty threshold,46,56.8,219,116,103,62,61.1,63.6
+Aurora,Alegria,households with income below food threshold,34,42,162,85,77,45.9,44.7,47.5
+Aurora,Alegria,households experienced food shortage,0,0,0,0,0,0,0,0
+Aurora,Alegria,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Anonang,households with income below poverty threshold,167,53.5,954,474,480,60.3,58.5,62.2
+Aurora,Anonang,households with income below food threshold,119,38.1,717,356,361,45.3,44,46.8
+Aurora,Anonang,households experienced food shortage,1,0.3,5,2,3,0.3,0.2,0.4
+Aurora,Anonang,unemployed members of the labor force,4,1.3,4,3,1,0.9,0.8,1
+Aurora,Bagong Mandaue,households with income below poverty threshold,48,64.9,251,131,120,71.5,72,71
+Aurora,Bagong Mandaue,households with income below food threshold,41,55.4,222,119,103,63.2,65.4,60.9
+Aurora,Bagong Mandaue,households experienced food shortage,4,5.4,25,12,13,7.1,6.6,7.7
+Aurora,Bagong Mandaue,unemployed members of the labor force,1,1.4,1,0,1,0.7,0,1.6
+Aurora,Bagong Maslog,households with income below poverty threshold,73,66.4,381,200,181,73.3,72.2,74.5
+Aurora,Bagong Maslog,households with income below food threshold,48,43.6,264,138,126,50.8,49.8,51.9
+Aurora,Bagong Maslog,households experienced food shortage,0,0,0,0,0,0,0,0
+Aurora,Bagong Maslog,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Bagong Oslob,households with income below poverty threshold,112,92.6,518,263,255,96.5,96.3,96.6
+Aurora,Bagong Oslob,households with income below food threshold,100,82.6,482,250,232,89.8,91.6,87.9
+Aurora,Bagong Oslob,households experienced food shortage,0,0,0,0,0,0,0,0
+Aurora,Bagong Oslob,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Bagong Pitogo,households with income below poverty threshold,61,75.3,283,152,131,81.3,81.3,81.4
+Aurora,Bagong Pitogo,households with income below food threshold,42,51.9,210,111,99,60.3,59.4,61.5
+Aurora,Bagong Pitogo,households experienced food shortage,0,0,0,0,0,0,0,0
+Aurora,Bagong Pitogo,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Baki,households with income below poverty threshold,65,80.2,314,187,127,85.8,88.6,81.9
+Aurora,Baki,households with income below food threshold,56,69.1,265,152,113,72.4,72,72.9
+Aurora,Baki,households experienced food shortage,6,7.4,29,18,11,7.9,8.5,7.1
+Aurora,Baki,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Balas,households with income below poverty threshold,187,53.6,1108,591,517,61,60.2,61.9
+Aurora,Balas,households with income below food threshold,118,33.8,725,379,346,39.9,38.6,41.4
+Aurora,Balas,households experienced food shortage,94,26.9,522,268,254,28.7,27.3,30.4
+Aurora,Balas,unemployed members of the labor force,2,0.6,2,2,0,0.3,0.4,0
+Aurora,Balide,households with income below poverty threshold,203,86.4,974,489,485,88.3,88.4,88.2
+Aurora,Balide,households with income below food threshold,187,79.6,913,456,457,82.8,82.5,83.1
+Aurora,Balide,households experienced food shortage,1,0.4,3,1,2,0.3,0.2,0.4
+Aurora,Balide,unemployed members of the labor force,2,1.4,4,3,1,2.2,2.3,1.8
+Aurora,Balintawak,households with income below poverty threshold,136,45.9,713,363,350,51.7,50.6,52.8
+Aurora,Balintawak,households with income below food threshold,73,24.7,394,199,195,28.6,27.8,29.4
+Aurora,Balintawak,households experienced food shortage,16,5.4,83,46,37,6,6.4,5.6
+Aurora,Balintawak,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Bayabas,households with income below poverty threshold,238,86.5,1231,658,573,89.8,89.2,90.5
+Aurora,Bayabas,households with income below food threshold,198,72,1078,572,506,78.6,77.5,79.9
+Aurora,Bayabas,households experienced food shortage,33,12,153,86,67,11.2,11.7,10.6
+Aurora,Bayabas,unemployed members of the labor force,7,2.7,8,4,4,2,1.3,3.9
+Aurora,Bemposa,households with income below poverty threshold,96,71.6,484,254,230,79.1,77,81.6
+Aurora,Bemposa,households with income below food threshold,75,56,374,200,174,61.1,60.6,61.7
+Aurora,Bemposa,households experienced food shortage,27,20.1,128,73,55,20.9,22.1,19.5
+Aurora,Bemposa,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Cabilinan,households with income below poverty threshold,59,33.7,372,173,199,43.1,40,46.1
+Aurora,Cabilinan,households with income below food threshold,39,22.3,256,118,138,29.6,27.3,31.9
+Aurora,Cabilinan,households experienced food shortage,1,0.6,3,1,2,0.3,0.2,0.5
+Aurora,Cabilinan,unemployed members of the labor force,1,0.6,1,1,0,0.3,0.5,0
+Aurora,Campo Uno,households with income below poverty threshold,176,69.8,971,510,461,76.1,76.8,75.3
+Aurora,Campo Uno,households with income below food threshold,140,55.6,799,415,384,62.6,62.5,62.7
+Aurora,Campo Uno,households experienced food shortage,0,0,0,0,0,0,0,0
+Aurora,Campo Uno,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Ceboneg,households with income below poverty threshold,54,60,256,129,127,67.7,66.8,68.6
+Aurora,Ceboneg,households with income below food threshold,41,45.6,203,102,101,53.7,52.8,54.6
+Aurora,Ceboneg,households experienced food shortage,3,3.3,15,6,9,4,3.1,4.9
+Aurora,Ceboneg,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Commonwealth,households with income below poverty threshold,106,54.4,504,242,262,59.4,59.3,59.5
+Aurora,Commonwealth,households with income below food threshold,89,45.6,422,199,223,49.8,48.8,50.7
+Aurora,Commonwealth,households experienced food shortage,0,0,0,0,0,0,0,0
+Aurora,Commonwealth,unemployed members of the labor force,2,1.5,2,2,0,1,1.4,0
+Aurora,Gubaan,households with income below poverty threshold,286,75.7,1410,741,669,80,79.5,80.6
+Aurora,Gubaan,households with income below food threshold,242,64,1222,641,581,69.4,68.8,70
+Aurora,Gubaan,households experienced food shortage,52,13.8,250,134,116,14.2,14.4,14
+Aurora,Gubaan,unemployed members of the labor force,5,1.4,5,4,1,1,1,0.9
+Aurora,Inasagan,households with income below poverty threshold,91,70,471,234,237,75.8,76.2,75.5
+Aurora,Inasagan,households with income below food threshold,59,45.4,317,159,158,51,51.8,50.3
+Aurora,Inasagan,households experienced food shortage,42,32.3,219,105,114,35.3,34.2,36.3
+Aurora,Inasagan,unemployed members of the labor force,1,0.8,1,0,1,0.5,0,1.4
+Aurora,Inroad,households with income below poverty threshold,44,62.9,271,142,129,67.2,69.3,65.2
+Aurora,Inroad,households with income below food threshold,34,48.6,221,118,103,54.8,57.6,52
+Aurora,Inroad,households experienced food shortage,3,4.3,14,4,10,3.5,2,5.1
+Aurora,Inroad,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Aurora,Kahayagan East (Katipunan),households with income below poverty threshold,150,78.9,685,338,347,81.3,82,80.5
+Aurora,Kahayagan East (Katipunan),households with income below food threshold,134,70.5,628,305,323,74.5,74,74.9
+Aurora,Kahayagan East (Katipunan),households experienced food shortage,10,5.3,40,19,21,4.7,4.6,4.9
+Aurora,Kahayagan East (Katipunan),unemployed members of the labor force,6,3.4,7,4,3,2.6,2,4.4
+Aurora,Kahayagan West,households with income below poverty threshold,76,46.1,364,196,168,51.3,52,50.6
+Aurora,Kahayagan West,households with income below food threshold,53,32.1,257,135,122,36.2,35.8,36.7
+Aurora,Kahayagan West,households experienced food shortage,5,3,25,14,11,3.5,3.7,3.3
+Aurora,Kahayagan West,unemployed members of the labor force,3,1.9,3,2,1,1.2,1.1,1.4
+Bayog,Baking,households with income below poverty threshold,27,56.3,164,93,71,73.9,75.6,71.7
+Bayog,Baking,households with income below food threshold,20,41.7,128,72,56,57.7,58.5,56.6
+Bayog,Baking,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Baking,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Balukbahan,households with income below poverty threshold,211,85.8,1099,591,507,92.7,93.1,92.3
+Bayog,Balukbahan,households with income below food threshold,167,67.9,942,499,443,79.4,78.6,80.7
+Bayog,Balukbahan,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Balukbahan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Balumbunan,households with income below poverty threshold,66,88,340,178,162,89,88.1,90
+Bayog,Balumbunan,households with income below food threshold,61,81.3,326,171,155,85.3,84.7,86.1
+Bayog,Balumbunan,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Balumbunan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Bantal,households with income below poverty threshold,56,77.8,318,150,168,88.6,88.2,88.9
+Bayog,Bantal,households with income below food threshold,47,65.3,280,127,153,78,74.7,81
+Bayog,Bantal,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Bantal,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Bobuan,households with income below poverty threshold,132,64.7,722,366,356,71.2,70.8,71.6
+Bayog,Bobuan,households with income below food threshold,95,46.6,558,281,277,55,54.4,55.7
+Bayog,Bobuan,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Bobuan,unemployed members of the labor force,1,0.5,1,0,1,0.4,0,4.5
+Bayog,Camp Blessing,households with income below poverty threshold,52,65.8,256,135,121,72.5,74.2,70.8
+Bayog,Camp Blessing,households with income below food threshold,34,43,171,92,79,48.4,50.5,46.2
+Bayog,Camp Blessing,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Camp Blessing,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Canoayan,households with income below poverty threshold,90,75,552,273,279,83.5,81.5,85.6
+Bayog,Canoayan,households with income below food threshold,70,58.3,459,227,232,69.4,67.8,71.2
+Bayog,Canoayan,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Canoayan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Conacon,households with income below poverty threshold,86,85.1,460,234,226,90.7,91.1,90.4
+Bayog,Conacon,households with income below food threshold,66,65.3,388,194,194,76.5,75.5,77.6
+Bayog,Conacon,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Conacon,unemployed members of the labor force,1,1,1,1,0,0.6,0.8,0
+Bayog,Dagum,households with income below poverty threshold,37,80.4,209,110,99,90.1,90.9,89.2
+Bayog,Dagum,households with income below food threshold,26,56.5,164,84,80,70.7,69.4,72.1
+Bayog,Dagum,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Dagum,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Damit,households with income below poverty threshold,197,58.3,1123,586,537,66.6,67.4,65.7
+Bayog,Damit,households with income below food threshold,122,36.1,735,390,345,43.6,44.8,42.2
+Bayog,Damit,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Damit,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Datagan,households with income below poverty threshold,102,82.9,585,322,263,89.3,89.4,89.2
+Bayog,Datagan,households with income below food threshold,82,66.7,509,281,228,77.7,78.1,77.3
+Bayog,Datagan,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Datagan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Depase,households with income below poverty threshold,136,65.4,767,389,378,73.5,72.2,74.9
+Bayog,Depase,households with income below food threshold,89,42.8,519,267,252,49.7,49.5,49.9
+Bayog,Depase,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Depase,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Deporehan,households with income below poverty threshold,85,76.6,482,243,239,84.7,83.5,86
+Bayog,Deporehan,households with income below food threshold,61,55,382,192,190,67.1,66,68.3
+Bayog,Deporehan,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Deporehan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Bayog,Depore,households with income below poverty threshold,127,66.1,714,371,343,76.8,77.3,76.4
+Bayog,Depore,households with income below food threshold,92,47.9,547,284,263,58.8,59.2,58.6
+Bayog,Depore,households experienced food shortage,0,0,0,0,0,0,0,0
+Bayog,Depore,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Bag-ong Misamis,households with income below poverty threshold,32,84.2,165,84,81,88.2,86.6,90
+Dumalinao,Bag-ong Misamis,households with income below food threshold,31,81.6,163,83,80,87.2,85.6,88.9
+Dumalinao,Bag-ong Misamis,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Bag-ong Misamis,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Baga,households with income below poverty threshold,145,84.8,655,348,307,89,90.9,87
+Dumalinao,Baga,households with income below food threshold,129,75.4,614,328,286,83.4,85.6,81
+Dumalinao,Baga,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Baga,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Bag-ong Silao,households with income below poverty threshold,132,85.2,634,320,314,91,90.1,91.8
+Dumalinao,Bag-ong Silao,households with income below food threshold,113,72.9,555,284,271,79.6,80,79.2
+Dumalinao,Bag-ong Silao,households experienced food shortage,1,0.6,7,4,3,1,1.1,0.9
+Dumalinao,Bag-ong Silao,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Baloboan,households with income below poverty threshold,112,89.6,528,278,250,92.5,92.4,92.9
+Dumalinao,Baloboan,households with income below food threshold,101,80.8,473,253,220,82.8,84.1,81.8
+Dumalinao,Baloboan,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Baloboan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Banta-ao,households with income below poverty threshold,70,87.5,341,187,154,89,88.2,90.6
+Dumalinao,Banta-ao,households with income below food threshold,68,85,328,181,147,85.6,85.4,86.5
+Dumalinao,Banta-ao,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Banta-ao,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Bibilik,households with income below poverty threshold,229,100,1049,523,526,100,100,100
+Dumalinao,Bibilik,households with income below food threshold,229,100,1049,523,526,100,100,100
+Dumalinao,Bibilik,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Bibilik,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Calingayan,households with income below poverty threshold,100,76.3,542,295,247,82.7,82.4,83.2
+Dumalinao,Calingayan,households with income below food threshold,91,69.5,496,271,225,75.7,75.7,75.8
+Dumalinao,Calingayan,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Calingayan,unemployed members of the labor force,3,2.5,4,3,1,1.7,1.9,1.4
+Dumalinao,Camalig,households with income below poverty threshold,79,71.2,419,205,214,73.9,72.4,75.4
+Dumalinao,Camalig,households with income below food threshold,61,55,333,164,169,58.7,58,59.5
+Dumalinao,Camalig,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Camalig,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Camanga,households with income below poverty threshold,157,57.3,724,345,379,56.3,54.8,57.8
+Dumalinao,Camanga,households with income below food threshold,135,49.3,616,289,327,47.9,45.9,49.8
+Dumalinao,Camanga,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Camanga,unemployed members of the labor force,1,0.5,1,0,1,0.3,0,0.8
+Dumalinao,Cuatro-cuatro,households with income below poverty threshold,68,75.6,361,187,174,81.1,81.3,80.9
+Dumalinao,Cuatro-cuatro,households with income below food threshold,53,58.9,298,153,145,67,66.5,67.4
+Dumalinao,Cuatro-cuatro,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Cuatro-cuatro,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Locuban,households with income below poverty threshold,138,72.6,645,348,297,75.9,76.5,75.4
+Dumalinao,Locuban,households with income below food threshold,120,63.2,561,299,262,66,65.7,66.5
+Dumalinao,Locuban,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Locuban,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Malasik,households with income below poverty threshold,114,91.9,470,260,210,92.5,93.9,90.9
+Dumalinao,Malasik,households with income below food threshold,105,84.7,427,235,192,84.1,84.8,83.1
+Dumalinao,Malasik,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Malasik,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Dumalinao,Mama (San Juan),households with income below poverty threshold,139,93.3,711,369,342,96.2,95.8,96.6
+Dumalinao,Mama (San Juan),households with income below food threshold,122,81.9,653,342,311,88.4,88.8,87.9
+Dumalinao,Mama (San Juan),households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Mama (San Juan),unemployed members of the labor force,5,3.7,5,3,2,2.7,2.1,4.7
+Dumalinao,Matab-ang,households with income below poverty threshold,64,64.6,315,172,142,73.1,72,74.3
+Dumalinao,Matab-ang,households with income below food threshold,50,50.5,259,147,111,60.1,61.5,58.1
+Dumalinao,Matab-ang,households experienced food shortage,0,0,0,0,0,0,0,0
+Dumalinao,Matab-ang,unemployed members of the labor force,16,94.1,33,17,16,97.1,94.4,100
+Guipos,Bagong Oroquieta,households with income below poverty threshold,206,68.4,1084,556,528,71.1,71.9,70.2
+Guipos,Bagong Oroquieta,households with income below food threshold,157,52.2,848,439,409,55.6,56.8,54.4
+Guipos,Bagong Oroquieta,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Bagong Oroquieta,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Baguitan,households with income below poverty threshold,183,70.4,890,464,426,75.6,75.1,76.2
+Guipos,Baguitan,households with income below food threshold,127,48.8,622,322,300,52.8,52.1,53.7
+Guipos,Baguitan,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Baguitan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Balongating,households with income below poverty threshold,252,71.8,1100,583,517,74.4,76.2,72.4
+Guipos,Balongating,households with income below food threshold,228,65,1003,532,471,67.8,69.5,66
+Guipos,Balongating,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Balongating,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Canunan,households with income below poverty threshold,200,57.6,1033,526,507,60.5,60.3,60.8
+Guipos,Canunan,households with income below food threshold,155,44.7,833,421,412,48.8,48.3,49.4
+Guipos,Canunan,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Canunan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Dacsol,households with income below poverty threshold,89,84,443,237,206,89.7,90.5,88.8
+Guipos,Dacsol,households with income below food threshold,77,72.6,405,219,186,82,83.6,80.2
+Guipos,Dacsol,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Dacsol,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Dagohoy,households with income below poverty threshold,112,92.6,536,285,251,93.9,93.8,94
+Guipos,Dagohoy,households with income below food threshold,102,84.3,499,263,236,87.4,86.5,88.4
+Guipos,Dagohoy,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Dagohoy,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Dalapang,households with income below poverty threshold,170,98.8,812,433,379,99.3,99.5,99.2
+Guipos,Dalapang,households with income below food threshold,169,98.3,810,432,378,99,99.3,99
+Guipos,Dalapang,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Dalapang,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Datagan,households with income below poverty threshold,114,85.7,647,342,305,87.7,86.4,89.2
+Guipos,Datagan,households with income below food threshold,102,76.7,586,310,276,79.4,78.3,80.7
+Guipos,Datagan,households experienced food shortage,1,0.8,6,2,4,0.8,0.5,1.2
+Guipos,Datagan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Poblacion (Guipos),households with income below poverty threshold,413,67.7,2094,1064,1030,68.7,69.3,68.1
+Guipos,Poblacion (Guipos),households with income below food threshold,343,56.2,1743,882,861,57.2,57.5,56.9
+Guipos,Poblacion (Guipos),households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Poblacion (Guipos),unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Guling,households with income below poverty threshold,243,73.9,1386,712,674,78,77.7,78.4
+Guipos,Guling,households with income below food threshold,214,65,1236,634,602,69.6,69.2,70
+Guipos,Guling,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Guling,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Katipunan,households with income below poverty threshold,176,82.2,934,475,459,88.4,89,87.8
+Guipos,Katipunan,households with income below food threshold,151,70.6,832,425,407,78.7,79.6,77.8
+Guipos,Katipunan,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Katipunan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Lintum,households with income below poverty threshold,115,90.6,564,304,260,93.1,93,93.2
+Guipos,Lintum,households with income below food threshold,115,90.6,564,304,260,93.1,93,93.2
+Guipos,Lintum,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Lintum,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Litan,households with income below poverty threshold,93,93.9,509,264,245,95.7,97.1,94.2
+Guipos,Litan,households with income below food threshold,90,90.9,485,250,235,91.2,91.9,90.4
+Guipos,Litan,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Litan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Guipos,Magting,households with income below poverty threshold,61,83.6,318,156,162,86.2,85.7,86.6
+Guipos,Magting,households with income below food threshold,50,68.5,264,129,135,71.5,70.9,72.2
+Guipos,Magting,households experienced food shortage,0,0,0,0,0,0,0,0
+Guipos,Magting,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Bogo Calabat,households with income below poverty threshold,86,50.6,504,260,244,60.1,59.4,61
+Josefina,Bogo Calabat,households with income below food threshold,54,31.8,331,177,154,39.5,40.4,38.5
+Josefina,Bogo Calabat,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Bogo Calabat,unemployed members of the labor force,4,2.4,4,1,3,1.1,0.4,2.6
+Josefina,Dawa (Diwa),households with income below poverty threshold,84,52.2,473,244,229,61.5,61.3,61.7
+Josefina,Dawa (Diwa),households with income below food threshold,48,29.8,279,149,130,36.3,37.4,35
+Josefina,Dawa (Diwa),households experienced food shortage,9,5.6,54,30,24,7,7.5,6.5
+Josefina,Dawa (Diwa),unemployed members of the labor force,3,2,4,2,2,1.6,1.1,3.3
+Josefina,Ebarle,households with income below poverty threshold,54,83.1,291,156,135,90.4,90.2,90.6
+Josefina,Ebarle,households with income below food threshold,41,63.1,240,130,110,74.5,75.1,73.8
+Josefina,Ebarle,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Ebarle,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Upper Bagong Tudela Poblacion,households with income below poverty threshold,201,68.6,1054,535,519,72.1,73.3,71
+Josefina,Upper Bagong Tudela Poblacion,households with income below food threshold,130,44.4,692,342,350,47.4,46.8,47.9
+Josefina,Upper Bagong Tudela Poblacion,households experienced food shortage,28,9.6,151,81,70,10.3,11.1,9.6
+Josefina,Upper Bagong Tudela Poblacion,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Leonardo,households with income below poverty threshold,71,64.5,364,188,176,68.3,67.4,69.3
+Josefina,Leonardo,households with income below food threshold,53,48.2,284,148,136,53.3,53,53.5
+Josefina,Leonardo,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Leonardo,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Litapan,households with income below poverty threshold,80,93,376,203,173,95.2,94.9,95.6
+Josefina,Litapan,households with income below food threshold,69,80.2,338,180,158,85.6,84.1,87.3
+Josefina,Litapan,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Litapan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Lower Bagong Tudela,households with income below poverty threshold,38,77.6,180,90,90,82.2,84.9,79.6
+Josefina,Lower Bagong Tudela,households with income below food threshold,24,49,120,57,63,54.8,53.8,55.8
+Josefina,Lower Bagong Tudela,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Lower Bagong Tudela,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Mansanas,households with income below poverty threshold,117,85.4,574,306,268,86.2,85.2,87.3
+Josefina,Mansanas,households with income below food threshold,102,74.5,522,280,242,78.4,78,78.8
+Josefina,Mansanas,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Mansanas,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Moradji,households with income below poverty threshold,26,34.2,162,89,73,45.4,49.4,41.5
+Josefina,Moradji,households with income below food threshold,7,9.2,53,31,22,14.8,17.2,12.5
+Josefina,Moradji,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Moradji,unemployed members of the labor force,1,1.3,1,0,1,0.7,0,2.3
+Josefina,Nemeno,households with income below poverty threshold,49,84.5,250,104,146,85.6,86,85.4
+Josefina,Nemeno,households with income below food threshold,40,69,212,89,123,72.6,73.6,71.9
+Josefina,Nemeno,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Nemeno,unemployed members of the labor force,1,1.8,1,0,1,1.1,0,3.7
+Josefina,Nopulan,households with income below poverty threshold,112,72.3,594,316,278,81,81,81
+Josefina,Nopulan,households with income below food threshold,83,53.5,459,251,208,62.6,64.4,60.6
+Josefina,Nopulan,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Nopulan,unemployed members of the labor force,4,2.6,5,4,1,1.7,2.1,1
+Josefina,Sebukang,households with income below poverty threshold,43,75.4,242,118,123,79.1,76.1,82
+Josefina,Sebukang,households with income below food threshold,32,56.1,201,99,101,65.7,63.9,67.3
+Josefina,Sebukang,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Sebukang,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Tagaytay Hill,households with income below poverty threshold,36,69.2,194,102,92,80.5,79.1,82.1
+Josefina,Tagaytay Hill,households with income below food threshold,28,53.8,165,84,81,68.5,65.1,72.3
+Josefina,Tagaytay Hill,households experienced food shortage,0,0,0,0,0,0,0,0
+Josefina,Tagaytay Hill,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Josefina,Gumahan Poblacion,households with income below poverty threshold,119,40.9,614,296,318,44.7,44.4,45
+Josefina,Gumahan Poblacion,households with income below food threshold,65,22.3,352,172,180,25.6,25.8,25.5
+Josefina,Gumahan Poblacion,households experienced food shortage,1,0.3,8,3,5,0.6,0.4,0.7
+Josefina,Gumahan Poblacion,unemployed members of the labor force,24,8.6,25,18,7,4.8,5.6,3.5
+Kumalarang,Bogayo,households with income below poverty threshold,193,88.9,1101,554,547,91.5,90.7,92.4
+Kumalarang,Bogayo,households with income below food threshold,170,78.3,974,489,485,81,80,81.9
+Kumalarang,Bogayo,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Bogayo,unemployed members of the labor force,62,28.8,98,55,43,27.4,18.8,66.2
+Kumalarang,Bolisong,households with income below poverty threshold,119,90.8,640,351,289,93,93.9,92.3
+Kumalarang,Bolisong,households with income below food threshold,106,80.9,585,319,266,85,85.3,85
+Kumalarang,Bolisong,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Bolisong,unemployed members of the labor force,1,0.8,2,1,1,1,0.6,3.7
+Kumalarang,Bualan,households with income below poverty threshold,138,93.9,753,395,358,96.4,96.8,96
+Kumalarang,Bualan,households with income below food threshold,137,93.2,745,391,354,95.4,95.8,94.9
+Kumalarang,Bualan,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Bualan,unemployed members of the labor force,2,1.4,2,0,2,1.1,0,11.1
+Kumalarang,Boyugan East,households with income below poverty threshold,162,98.2,861,455,406,99.1,99.3,99
+Kumalarang,Boyugan East,households with income below food threshold,158,95.8,844,448,396,97.1,97.8,96.6
+Kumalarang,Boyugan East,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Boyugan East,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Kumalarang,Boyugan West,households with income below poverty threshold,137,76.1,801,397,404,80,81.5,78.8
+Kumalarang,Boyugan West,households with income below food threshold,101,56.1,620,309,311,61.9,63.4,60.6
+Kumalarang,Boyugan West,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Boyugan West,unemployed members of the labor force,1,0.6,1,0,1,0.4,0,1.7
+Kumalarang,Diplo,households with income below poverty threshold,407,78.9,2067,1050,1017,92.8,93.3,92.6
+Kumalarang,Diplo,households with income below food threshold,372,72.1,1924,973,951,86.4,86.5,86.6
+Kumalarang,Diplo,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Diplo,unemployed members of the labor force,3,1,4,3,1,1,1,1
+Kumalarang,Gawil,households with income below poverty threshold,135,50.8,772,412,360,74.3,74.5,74.1
+Kumalarang,Gawil,households with income below food threshold,96,36.1,583,306,277,56.1,55.3,57
+Kumalarang,Gawil,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Gawil,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Kumalarang,Gusom,households with income below poverty threshold,86,85.1,557,291,266,87.4,87.4,87.8
+Kumalarang,Gusom,households with income below food threshold,77,76.2,516,267,249,81,80.2,82.2
+Kumalarang,Gusom,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Gusom,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Kumalarang,Kitaan Dagat,households with income below poverty threshold,142,97.3,731,376,355,98.1,98.2,98.3
+Kumalarang,Kitaan Dagat,households with income below food threshold,136,93.2,712,365,347,95.6,95.3,96.1
+Kumalarang,Kitaan Dagat,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Kitaan Dagat,unemployed members of the labor force,15,10.4,16,11,5,8.8,6.9,22.7
+Kumalarang,Limamawan,households with income below poverty threshold,61,95.3,333,166,167,98.2,98.8,97.7
+Kumalarang,Limamawan,households with income below food threshold,55,85.9,315,158,157,92.9,94,91.8
+Kumalarang,Limamawan,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Limamawan,unemployed members of the labor force,16,25.4,22,11,11,21.4,13.1,57.9
+Kumalarang,Mahayahay,households with income below poverty threshold,108,94.7,573,292,281,96.5,96.7,96.9
+Kumalarang,Mahayahay,households with income below food threshold,99,86.8,540,274,266,90.9,90.7,91.7
+Kumalarang,Mahayahay,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Mahayahay,unemployed members of the labor force,2,1.8,3,0,3,2.1,0,25
+Kumalarang,Pangi,households with income below poverty threshold,126,89.4,655,336,319,91.1,90.1,92.2
+Kumalarang,Pangi,households with income below food threshold,117,83,617,314,303,85.8,84.2,87.6
+Kumalarang,Pangi,households experienced food shortage,0,0,0,0,0,0,0,0
+Kumalarang,Pangi,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Kumalarang,Poblacion,households with income below poverty threshold,777,79.7,4189,2118,2071,81.8,82.7,80.9
+Kumalarang,Poblacion,households with income below food threshold,683,70.1,3711,1882,1829,72.4,73.5,71.4
+Kumalarang,Poblacion,households experienced food shortage,2,0.2,7,6,1,0.1,0.2,0
+Kumalarang,Poblacion,unemployed members of the labor force,6,0.7,6,4,2,0.5,0.5,0.7
+Kumalarang,Picanan,households with income below poverty threshold,327,91.9,1750,923,827,94.6,94.7,94.5
+Kumalarang,Picanan,households with income below food threshold,296,83.1,1622,858,764,87.7,88,87.3
+Kumalarang,Picanan,households experienced food shortage,1,0.3,4,3,1,0.2,0.3,0.1
+Kumalarang,Picanan,unemployed members of the labor force,9,3.3,11,7,4,3.3,2.4,9.3
+Labangan,Bagalupa,households with income below poverty threshold,121,68,618,334,284,73.2,73.6,72.8
+Labangan,Bagalupa,households with income below food threshold,103,57.9,549,299,250,65,65.9,64.1
+Labangan,Bagalupa,households experienced food shortage,1,0.6,4,2,2,0.5,0.4,0.5
+Labangan,Bagalupa,unemployed members of the labor force,1,0.6,1,0,1,0.4,0,1.9
+Labangan,Balimbingan (West Luya),households with income below poverty threshold,145,59.4,738,389,349,65.6,66.6,64.5
+Labangan,Balimbingan (West Luya),households with income below food threshold,108,44.3,556,291,265,49.4,49.8,49
+Labangan,Balimbingan (West Luya),households experienced food shortage,87,35.7,422,214,208,37.5,36.6,38.4
+Labangan,Balimbingan (West Luya),unemployed members of the labor force,0,0,0,0,0,0,0,0
+Labangan,Binayan,households with income below poverty threshold,133,63.6,704,364,340,71.8,71.8,71.7
+Labangan,Binayan,households with income below food threshold,104,49.8,586,299,287,59.7,59,60.5
+Labangan,Binayan,households experienced food shortage,0,0,0,0,0,0,0,0
+Labangan,Binayan,unemployed members of the labor force,1,0.5,2,1,1,0.7,0.4,2.5
+Labangan,Bokong,households with income below poverty threshold,236,73.8,1192,635,557,77.2,78.6,75.7
+Labangan,Bokong,households with income below food threshold,200,62.5,1034,558,476,67,69.1,64.7
+Labangan,Bokong,households experienced food shortage,16,5,81,44,37,5.2,5.4,5
+Labangan,Bokong,unemployed members of the labor force,4,1.3,5,5,0,1,1.4,0
+Labangan,Bulanit,households with income below poverty threshold,218,70.8,1238,631,607,74.8,75.1,74.5
+Labangan,Bulanit,households with income below food threshold,185,60.1,1063,531,532,64.2,63.2,65.3
+Labangan,Bulanit,households experienced food shortage,82,26.6,483,242,241,29.2,28.8,29.6
+Labangan,Bulanit,unemployed members of the labor force,4,1.4,6,2,4,1.2,0.5,3.4
+Labangan,Cogonan,households with income below poverty threshold,285,98.3,1574,810,764,98.7,98.4,99
+Labangan,Cogonan,households with income below food threshold,277,95.5,1551,798,753,97.2,97,97.5
+Labangan,Cogonan,households experienced food shortage,28,9.7,149,72,77,9.3,8.7,10
+Labangan,Cogonan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Labangan,Dalapang,households with income below poverty threshold,210,64.2,1051,546,505,67.6,68.3,66.9
+Labangan,Dalapang,households with income below food threshold,174,53.2,885,466,419,56.9,58.3,55.5
+Labangan,Dalapang,households experienced food shortage,8,2.4,40,21,19,2.6,2.6,2.5
+Labangan,Dalapang,unemployed members of the labor force,17,5.4,24,8,16,4.8,2.2,11.6
+Labangan,Dipaya,households with income below poverty threshold,77,47.5,388,199,189,53.4,52.6,54.3
+Labangan,Dipaya,households with income below food threshold,49,30.2,241,120,121,33.2,31.7,34.8
+Labangan,Dipaya,households experienced food shortage,8,4.9,41,20,21,5.6,5.3,6
+Labangan,Dipaya,unemployed members of the labor force,6,3.9,8,6,2,4.1,3.5,9.1
+Labangan,Langapod,households with income below poverty threshold,270,83.9,1344,682,662,89.5,89.2,89.8
+Labangan,Langapod,households with income below food threshold,231,71.7,1187,607,580,79,79.3,78.7
+Labangan,Langapod,households experienced food shortage,33,10.2,195,103,92,13,13.5,12.5
+Labangan,Langapod,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Labangan,Lantian,households with income below poverty threshold,248,72.3,1242,641,601,76.4,76.6,76.2
+Labangan,Lantian,households with income below food threshold,214,62.4,1103,577,526,67.8,68.9,66.7
+Labangan,Lantian,households experienced food shortage,5,1.5,20,8,12,1.2,1,1.5
+Labangan,Lantian,unemployed members of the labor force,7,2.2,7,5,2,1.6,1.5,2.2
+Labangan,Lower Campo Islam Poblacion,households with income below poverty threshold,166,69.5,863,435,428,71.6,73.2,69.9
+Labangan,Lower Campo Islam Poblacion,households with income below food threshold,141,59,742,379,363,61.5,63.8,59.3
+Labangan,Lower Campo Islam Poblacion,households experienced food shortage,5,2.1,26,13,13,2.2,2.2,2.1
+Labangan,Lower Campo Islam Poblacion,unemployed members of the labor force,10,4.6,15,11,4,4.9,4.8,5.2
+Labangan,Lower Pulacan,households with income below poverty threshold,111,41,555,277,278,42.2,41.7,42.6
+Labangan,Lower Pulacan,households with income below food threshold,84,31,433,219,214,32.9,33,32.8
+Labangan,Lower Pulacan,households experienced food shortage,13,4.8,66,31,35,5,4.7,5.4
+Labangan,Lower Pulacan,unemployed members of the labor force,7,2.8,8,4,4,1.9,1.3,3.4
+Labangan,New Labangan,households with income below poverty threshold,253,82.4,1300,664,636,84,84.3,83.8
+Labangan,New Labangan,households with income below food threshold,229,74.6,1196,610,586,77.3,77.4,77.2
+Labangan,New Labangan,households experienced food shortage,1,0.3,3,1,2,0.2,0.1,0.3
+Labangan,New Labangan,unemployed members of the labor force,3,1.1,3,1,2,0.8,0.3,3.2
+Labangan,Noboran,households with income below poverty threshold,226,91.1,1172,627,545,94.1,94.1,94.1
+Labangan,Noboran,households with income below food threshold,204,82.3,1092,584,508,87.7,87.7,87.7
+Labangan,Noboran,households experienced food shortage,32,12.9,158,88,70,12.7,13.2,12.1
+Labangan,Noboran,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Baking,households with income below poverty threshold,140,54.9,959,500,459,68.2,68.4,67.9
+Lakewood,Baking,households with income below food threshold,84,32.9,650,339,311,46.2,46.4,46
+Lakewood,Baking,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Baking,unemployed members of the labor force,1,0.5,1,1,0,0.4,0.5,0
+Lakewood,Bagong Kahayag,households with income below poverty threshold,284,84.5,1492,758,733,87.7,87,88.3
+Lakewood,Bagong Kahayag,households with income below food threshold,255,75.9,1372,699,672,80.6,80.3,81
+Lakewood,Bagong Kahayag,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Bagong Kahayag,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Biswangan,households with income below poverty threshold,180,82.9,970,497,473,86.6,85.5,87.8
+Lakewood,Biswangan,households with income below food threshold,174,80.2,944,484,460,84.3,83.3,85.3
+Lakewood,Biswangan,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Biswangan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Bululawan,households with income below poverty threshold,209,86,987,495,492,88.7,89.7,88.2
+Lakewood,Bululawan,households with income below food threshold,193,79.4,921,469,452,82.7,85,81
+Lakewood,Bululawan,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Bululawan,unemployed members of the labor force,3,1.3,4,1,3,1.2,0.4,4.3
+Lakewood,Dagum,households with income below poverty threshold,123,95.3,634,321,313,98.6,98.5,98.7
+Lakewood,Dagum,households with income below food threshold,103,79.8,581,296,285,90.4,90.8,89.9
+Lakewood,Dagum,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Dagum,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Gasa,households with income below poverty threshold,93,93.9,447,235,212,94.7,95.1,94.2
+Lakewood,Gasa,households with income below food threshold,86,86.9,425,226,199,90,91.5,88.4
+Lakewood,Gasa,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Gasa,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Gatub,households with income below poverty threshold,163,77.6,861,453,408,82.4,82.5,82.4
+Lakewood,Gatub,households with income below food threshold,125,59.5,694,366,328,66.4,66.7,66.3
+Lakewood,Gatub,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Gatub,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Poblacion (Lakewood),households with income below poverty threshold,691,83.6,3666,1857,1809,85.7,85.7,85.7
+Lakewood,Poblacion (Lakewood),households with income below food threshold,641,77.5,3448,1743,1705,80.6,80.5,80.8
+Lakewood,Poblacion (Lakewood),households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Poblacion (Lakewood),unemployed members of the labor force,14,1.8,18,10,8,1.6,1.2,2.9
+Lakewood,Lukuan,households with income below poverty threshold,64,87.7,318,159,159,89.3,91.4,87.8
+Lakewood,Lukuan,households with income below food threshold,56,76.7,285,142,143,80.1,81.6,79
+Lakewood,Lukuan,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Lukuan,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Matalang,households with income below poverty threshold,102,98.1,575,291,284,98,97.7,98.3
+Lakewood,Matalang,households with income below food threshold,101,97.1,570,289,281,97.1,97,97.2
+Lakewood,Matalang,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Matalang,unemployed members of the labor force,1,1.6,1,0,1,1.5,0,14.3
+Lakewood,Sapang Pinoles,households with income below poverty threshold,105,91.3,560,285,275,94.1,94.4,93.9
+Lakewood,Sapang Pinoles,households with income below food threshold,96,83.5,517,262,255,86.9,86.8,87
+Lakewood,Sapang Pinoles,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Sapang Pinoles,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Sebuguey,households with income below poverty threshold,82,100,442,248,194,100,100,100
+Lakewood,Sebuguey,households with income below food threshold,82,100,442,248,194,100,100,100
+Lakewood,Sebuguey,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Sebuguey,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Tiwales,households with income below poverty threshold,104,90.4,554,282,272,93.3,93.1,93.5
+Lakewood,Tiwales,households with income below food threshold,98,85.2,524,264,260,88.2,87.1,89.3
+Lakewood,Tiwales,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Tiwales,unemployed members of the labor force,0,0,0,0,0,0,0,0
+Lakewood,Tubod,households with income below poverty threshold,496,86.6,2521,1314,1207,88.5,89.6,87.4
+Lakewood,Tubod,households with income below food threshold,461,80.5,2377,1238,1139,83.5,84.4,82.5
+Lakewood,Tubod,households experienced food shortage,0,0,0,0,0,0,0,0
+Lakewood,Tubod,unemployed members of the labor force,3,0.6,3,2,1,0.4,0.4,0.5
